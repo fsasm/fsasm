@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm currently finishing my bachelor thesis and started my master studies.
+In the near future I wanna try out Kotlin, Go and Dart with Fullter. 
 
 <!--
 **fsasm/fsasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
