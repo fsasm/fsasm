@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-I'm currently doing my master studies.
+I'm currently doing electronics stuff with C, STM32 microcontrollers, KiCAD and VHDL on FPGAs.
+
 In the near future I wanna try out Kotlin, Go and Dart with Flutter. 
 
 <!--
