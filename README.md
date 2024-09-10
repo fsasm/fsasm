@@ -2,7 +2,7 @@
 
 I'm currently doing electronics stuff with C, STM32 microcontrollers, KiCAD and VHDL on FPGAs. Also I program mostly in Go
 
-In the near future I wanna try out Kotlin, Ocaml, Dart with Flutter and renew my C++ with Qt skills.
+In the near future I wanna try out Kotlin, Ocaml, Dart with Flutter and renew my C++ with Qt and Rust skills.
 
 <!--
 **fsasm/fsasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
