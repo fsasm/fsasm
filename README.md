@@ -1,8 +1,19 @@
 ### Hello there 👋
 
-I'm currently doing electronics stuff with C, STM32 microcontrollers, KiCAD and VHDL on FPGAs. Also I program mostly in Go.
+Checkout my
+- [tmux config](https://github.com/fsasm/tmux-config)
+- [neovim config](https://github.com/fsasm/kickstart.nvim) (slightly outdated)
 
-In the near future I wanna try out Lua, Kotlin, Ocaml, Dart with Flutter and renew my C++ & Qt and Rust skills.
+You might also be interested in
+- research on [compressed instruction for MIPS-I](https://github.com/fsasm/Compr-MIPS)
+- [lenght-limited canonical huffman coding](https://github.com/fsasm/huffcoder)
+- some [hash-functions written in assembly](https://github.com/fsasm/asm-hash)
+- tool to [generate VHDL testbenches](https://github.com/fsasm/tb_generator) (needs to be rewritten from bash to go)
+
+My attempts at Advent of Code
+- 2024 will be written in Dart or C++23
+- [2023](https://github.com/fsasm/aoc2023) also written in Go
+- [2022](https://github.com/fsasm/aoc2022) written in Go
 
 <!--
 **fsasm/fsasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
