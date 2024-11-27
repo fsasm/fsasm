@@ -6,12 +6,12 @@ Checkout my
 
 You might also be interested in
 - research on [compressed instruction for MIPS-I](https://github.com/fsasm/Compr-MIPS)
-- [lenght-limited canonical huffman coding](https://github.com/fsasm/huffcoder)
-- some [hash-functions written in assembly](https://github.com/fsasm/asm-hash)
+- [length-limited canonical huffman coding](https://github.com/fsasm/huffcoder)
+- some [hash-functions written in assembly](https://github.com/fsasm/asm-hash) (mainly ARMv7 and x86_64)
 - tool to [generate VHDL testbenches](https://github.com/fsasm/tb_generator) (needs to be rewritten from bash to go)
 
 My attempts at Advent of Code
-- 2024 will be written in Dart or C++23
+- 2024 will be written in Dart
 - [2023](https://github.com/fsasm/aoc2023) also written in Go
 - [2022](https://github.com/fsasm/aoc2022) written in Go
 
