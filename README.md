@@ -11,7 +11,7 @@ You might also be interested in
 - tool to [generate VHDL testbenches](https://github.com/fsasm/tb_generator) (needs to be rewritten from bash to go)
 
 My attempts at Advent of Code
-- 2024 will be written in Dart
+- [2024](https://github.com/fsasm/aoc2024) will be written in Dart
 - [2023](https://github.com/fsasm/aoc2023) also written in Go
 - [2022](https://github.com/fsasm/aoc2022) written in Go
 
