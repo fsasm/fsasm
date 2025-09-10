@@ -11,12 +11,12 @@ You might also be interested in
 - tool to [generate VHDL testbenches](https://github.com/fsasm/tb_generator) (needs to be rewritten from bash to go)
 
 My attempts at Advent of Code
-- 2025 will be written in Dart again
-- [2024](https://github.com/fsasm/aoc2024) written in Dart
-- [2023](https://github.com/fsasm/aoc2023) also written in Go
-- [2022](https://github.com/fsasm/aoc2022) written in Go
+- 2025 will be written in Dart again and hopefully I will reach at least day 19
+- [2024](https://github.com/fsasm/aoc2024) written in Dart and made it to day 15
+- [2023](https://github.com/fsasm/aoc2023) also written in Go and got to day 9
+- [2022](https://github.com/fsasm/aoc2022) written in Go and only reached day 3
 
-For 2026 I'm planning to learn and practice OCaml or Zig.
+For 2026 I'm planning to learn and practice Lua, OCaml or Zig.
 
 <!--
 **fsasm/fsasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
