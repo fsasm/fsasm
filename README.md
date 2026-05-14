@@ -18,7 +18,7 @@ My attempts at Advent of Code
 - [2023](https://github.com/fsasm/aoc2023) also written in Go and got to day 9
 - [2022](https://github.com/fsasm/aoc2022) written in Go and only reached day 3
 
-For 2026 I'm planning to learn and practice Kotlin and C++.
+For 2026 I'm planning to learn Kotlin and all new features from C++17 to C++23.
 
 <!--
 **fsasm/fsasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
