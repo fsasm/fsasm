@@ -6,7 +6,7 @@ Checkout my
 
 You might also be interested in
 - research on [compressed instruction for MIPS-I](https://github.com/fsasm/Compr-MIPS)
-- [length-limited canonical huffman coding](https://github.com/fsasm/huffcoder)
+- [length-limited canonical huffman coding](https://github.com/fsasm/huffcoder) (derived from JPEG)
 - some [hash-functions written in assembly](https://github.com/fsasm/asm-hash) (mainly ARMv7 and x86_64)
 - tool to [generate VHDL testbenches](https://github.com/fsasm/tb_generator) (needs to be rewritten from bash to go)
 - more project are in the works, e.g. DSL for VHDL, JPEG-DCT made with lifting steps
